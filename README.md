@@ -247,17 +247,6 @@ La integración funcional deberá comprobar:
 
 ---
 
-## Entregables
-
-- Código y notebooks ejecutables.
-- Aplicación interactiva.
-- Reporte técnico-científico en PDF.
-- Presentación y video.
-- Respuesta individual al cuestionamiento obligatorio.
-- Repositorio con evidencia de participación mediante ramas y commits.
-
----
-
 ## Licencia
 
 Proyecto académico para fines educativos.
