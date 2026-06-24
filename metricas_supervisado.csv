@@ -1,0 +1,2 @@
+modelo,accuracy,precision,recall,f1_score,roc_auc
+Regresion Logistica,0.85875,0.009683098591549295,0.6875,0.019097222222222224,0.85093624749499
